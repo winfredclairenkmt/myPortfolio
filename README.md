@@ -1,3 +1,1 @@
-
-# Claire-s-Portfolio
 # myPortfolio
